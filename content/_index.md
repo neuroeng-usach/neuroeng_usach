@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        NeuroEng@Usach
       image:
-        filename: welcome.jpg
+        filename: tes.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The goal of the NeuroEngineering Group at Usach is to provide engineering tools and analyses to understand neural system function, and to contribute to the understanding and improvement of electrical neuromodulation therapies by means of computational modeling and engineering techniques.
   
   - block: collection
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: headers/cnn2022_header.png
           filters:
             brightness: 1
           parallax: false
@@ -58,13 +57,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Works
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 
     design:
       view: citation
       columns: '1'

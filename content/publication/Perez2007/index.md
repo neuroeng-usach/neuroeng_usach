@@ -1,0 +1,16 @@
+---
+title : "Coincidence-enhanced stochastic resonance: Experimental evidence challenges the psychophysical theory behind stochastic resonance"
+date : 2007-01-01
+authors : 
+  - "Claudio A. Perez"
+  - "Theodore E. Cohn"
+  - leomedina 
+  - "José R. Donoso"
+publication_types : ["article-journal"]
+abstract : "Stochastic resonance (SR) is the counterintuitive phenomenon in which noise enhances detection of sub-threshold stimuli. The SR psychophysical threshold theory establishes that the required amplitude to exceed the sensory threshold barrier can be reached by adding noise to a sub-threshold stimulus. The aim of this study was to test the SR theory by comparing detection results from two different randomly-presented stimulus conditions. In the first condition, optimal noise was present during the whole attention interval; in the second, the optimal noise was restricted to the same time interval as the stimulus. SR threshold theory predicts no difference between the two conditions because noise helps the sub-threshold stimulus to reach threshold in both cases. The psychophysical experimental method used a 300 ms rectangular force pulse as a stimulus within an attention interval of 1.5 s, applied to the index finger of six human subjects in the two distinct conditions. For all subjects we show that in the condition in which the noise was present only when synchronized with the stimulus, detection was better (p textless 0.05) than in the condition in which the noise was delivered throughout the attention interval. These results provide the first direct evidence that SR threshold theory is incomplete and that a new phenomenon has been identified, which we call Coincidence-Enhanced Stochastic Resonance (CESR). We propose that CESR might occur because subject uncertainty is reduced when noise points at the same temporal window as the stimulus. textcopyright 2007 Elsevier Ireland Ltd. All rights reserved."
+selected : "false"
+publication : "*Neuroscience Letters*"
+tags : ["Noise-stimulus synchronization", "Psychophysics", "Tactile stimulus detection", "Uncertainty", "Stochastic resonance"]
+doi : "10.1016/j.neulet.2007.07.014"
+---
+

@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Leo Medina. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -79,9 +79,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
-      shortname: ''
+      shortname: 'leonelmd'
       show_count: true
     commento:
       url: ''
@@ -98,8 +98,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
-    api_key: ''
+    provider: 'google'
+    api_key: 'REDACTED_API_KEY'
     zoom: 15
 
 # Extensions
