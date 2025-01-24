@@ -19,8 +19,8 @@ sections:
         country: Chile
         country_code: CL
       coordinates:
-        latitude: '-33.449781'
-        longitude: '-70.687296'
+        latitude: '-33.45043'
+        longitude: '-70.68635'
       directions: Sector EAO, por Metro U de Santiago
       #office_hours:
       #  - ''
