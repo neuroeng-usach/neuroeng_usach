@@ -11,6 +11,7 @@ authors:
 tags: ["Entropy", "Complexity"]
 categories: []
 date: 2021-03-01
+projects: ["exploracion2022"]
 
 ---
 

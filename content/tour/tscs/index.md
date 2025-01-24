@@ -13,9 +13,7 @@ authors:
 tags: ["Spinal cord stimulation", "Neurostimulation", "Fondecyt", "Millennium Nucleus"]
 categories: []
 date: 2019-11-01
-projects: 
-  - fondecyt_iniciacion
-  - nucleo2020 
+projects: ["fondecyt_iniciacion", "nucleo2020"] 
 
 ---
 
