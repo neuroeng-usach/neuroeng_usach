@@ -21,7 +21,7 @@ sections:
       coordinates:
         latitude: '-33.45043'
         longitude: '-70.68635'
-      directions: Sector EAO, por Metro U de Santiago
+      directions: Ingeniería Civil Biomédica, Sector EAO, Metro U de Santiago
       #office_hours:
       #  - ''
       #  - ''
@@ -37,7 +37,7 @@ sections:
     
       # Email form provider
       form:
-        provider: netifly
+        provider: netlify
         formspree:
           id:
         netlify:
@@ -46,23 +46,23 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      # background:
-      #   image: 
-      #     filename: contact.jpg
-      #     filters:
-      #       brightness: 1
-      #     parallax: false
-      #     position: center
-      #     size: cover
-      #     text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     # background:
+  #     #   image: 
+  #     #     filename: contact.jpg
+  #     #     filters:
+  #     #       brightness: 1
+  #     #     parallax: false
+  #     #     position: center
+  #     #     size: cover
+  #     #     text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 ---
