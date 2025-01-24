@@ -22,9 +22,6 @@ main:
   - name: Projects
     url: project
     weight: 60
-  - name: Popular Topics
-    url: tags
-    weight: 70
   - name: Contact
     url: contact
-    weight: 80
+    weight: 70
