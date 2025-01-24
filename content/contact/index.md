@@ -37,7 +37,7 @@ sections:
     
       # Email form provider
       form:
-        provider: formspree.io
+        provider: netifly
         formspree:
           id:
         netlify:
