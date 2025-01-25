@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Complexity
+      - title: Complexity Analyses
         content: 
         align: center
         background:
@@ -23,9 +23,9 @@ sections:
           icon_pack: fas
           text: More 
           url: complexity
-      - title: Fiber Modeling
+      - title: Neural Modeling
         content: ''
-        align: left
+        align: center
         background:
           image:
             filename: fiber_modeling.png
@@ -38,21 +38,21 @@ sections:
           icon_pack: fas
           text: More 
           url: fiber_modeling
-      - title: Models of neurostimulation
-        content: 
-        align: right
-        background:
-          image:
-            filename: tscs.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: more
-          icon_pack: fas
-          text: More
-          url: tscs
+      # - title: Models of neurostimulation
+      #   content: 
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: tscs.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
+      #   link:
+      #     icon: more
+      #     icon_pack: fas
+      #     text: More
+      #     url: tscs
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

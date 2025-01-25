@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Complexity analysis in electrophysiological signals"
+title: "Complexity analyses of electrophysiological signals"
 summary: ""
 authors:
   - leomedina
   - maxchacon
   - cristobalrojas
-  - sebastiangaray
+  - adrianpalacios
 tags: ["Entropy", "Complexity"]
 categories: []
 date: 2021-03-01
