@@ -33,11 +33,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-          link:
-            icon: more
-            icon_pack: fas
-            text: More 
-            url: fiber_modeling
+        link:
+          icon: more
+          icon_pack: fas
+          text: More 
+          url: fiber_modeling
       - title: Models of neurostimulation
         content: 
         align: right
