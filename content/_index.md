@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The goal of the NeuroEngineering Group at Usach is to provide engineering tools and analyses to understand neural system function, and to contribute to the understanding and improvement of electrical neuromodulation therapies by means of computational modeling and engineering techniques.
+        The goals of the NeuroEngineering Group at Usach are to apply engineering tools and analyses to understand neural system function, and to contribute to the understanding and improvement of neural technologies.
   
   - block: tag_cloud
     content:
@@ -35,7 +35,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 3
+      count: 4
       filters:
         author: ''
         category: ''
@@ -46,8 +46,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '2'
   
   # - block: markdown
   #   content:
@@ -80,7 +80,7 @@ sections:
         publication_type: 
     design:
       view: citation
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
