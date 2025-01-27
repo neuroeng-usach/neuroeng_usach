@@ -18,7 +18,7 @@ categories: []
 date: '2022-01-28'
 lastmod: 2022-04-06T16:03:08-04:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
