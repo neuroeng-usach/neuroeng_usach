@@ -16,9 +16,7 @@ role:
 organizations: 
 - name: Instituto de Ingeniería Matemática y Computacional - Pontificia Universidad Católica de Chile
   url: https://www.imc.uc.cl
-- name: Millennium Nucleus for Applied Control and Inverse Problems
-  url: https://www.acip.cl
-  
+ 
 # Short bio (displayed in user profile at end of posts)
 bio:
 

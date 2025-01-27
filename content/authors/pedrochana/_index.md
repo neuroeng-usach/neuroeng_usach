@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations: 
-- name: CETRAM
+- name: Centro de Trastornos del Movimiento (CETRAM)
   url: https://cetram.org
 
 # Short bio (displayed in user profile at end of posts)

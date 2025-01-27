@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations: 
-- name: DIINF - Universidad de Santiago de Chile
+- name: Departamento de Ingeniería Informática - Universidad de Santiago de Chile
   url: https://www.diinf.usach.cl
 
 # Short bio (displayed in user profile at end of posts)

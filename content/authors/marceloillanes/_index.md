@@ -14,7 +14,7 @@ role: Research assistant
 
 # Organizations/Affiliations
 organizations: 
-- name: Facultad de Ingeniería - Universidad de Santiago de Chile
+- name: Universidad de Santiago de Chile
   url: https://www.ingenieriabiomedica.usach.cl
 
 # Short bio (displayed in user profile at end of posts)

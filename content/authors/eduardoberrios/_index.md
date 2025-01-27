@@ -14,11 +14,11 @@ role: Research assistant
 
 # Organizations/Affiliations
 organizations: 
-- name: Ingeniería Biomédica - Universidad de Santiago de Chile
+- name: Universidad de Santiago de Chile
   url: https://www.ingenieriabiomedica.usach.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de ingeniería civil Biomédica. Interesado en el uso de herramientas tecnológicas e informáticas para aplicaciones dentro del campo de la salud.
+bio: Estudiante de Ingeniería Civil Biomédica. Interesado en el uso de herramientas tecnológicas e informáticas para aplicaciones dentro del campo de la salud.
 
 interests:
 

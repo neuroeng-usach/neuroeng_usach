@@ -16,6 +16,7 @@ sections:
           - Grad Students
           - Administration
           - Visitors
+          - Collaborators
           # - Alumni
       sort_by: Params.last_name
       sort_ascending: true
@@ -23,4 +24,5 @@ sections:
       show_interests: true
       show_role: true
       show_social: true
+      show_organizations: true
 ---

@@ -20,8 +20,6 @@ role: Principal Investigator
 organizations: 
 - name: Ingeniería Civil Biomédica - Universidad de Santiago de Chile
   url: https://www.ingenieriabiomedica.usach.cl
-- name: Millennium Nucleus for Applied Control and Inverse Problems
-  url: https://www.acip.cl
 
 # Short bio (displayed in user profile at end of posts)
 bio: Leo teaches engineering courses at Usach, and his research interests are in the neural engineering and computational neuroscience fields. His work has contributed to understand how nerve fibers respond to electrical stimulation.
