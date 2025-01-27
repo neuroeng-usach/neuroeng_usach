@@ -10,7 +10,7 @@ authors:
   - leomedina
   - "Mónica Acosta"
 tags: ["ANID Fomento Vinculación Internacional", "Retina", "Alzheimer's disease", "ERG", "Complexity", "Entropy"]
-categories: ["Current Projects"]
+categories: ["Past Projects"]
 date: 2022-12-20T15:28:40-03:00
 
 # Optional external URL for project (replaces project detail page).

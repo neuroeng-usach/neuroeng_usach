@@ -8,8 +8,8 @@ authors:
   - adrianpalacios
   - maxchacon
   - cristobalrojas
-  - "Pedro Chaná-Cuevas"
-  - "Andrea Slachevsky"
+  - pedrochana
+  - andreaslachevsky
   - "Ruth Pérez"
 tags: ["ANID Exploración", "Retina", "Neurodegenerative diseases", "Alzheimer's disease", "Parkinson's disease", "ERG", "Complexity", "Entropy"]
 categories: ["Current Projects"]

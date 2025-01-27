@@ -35,7 +35,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 4
+      count: 3
       filters:
         author: ''
         category: ''
@@ -73,7 +73,7 @@ sections:
     content:
       title: Latest Works
       text: ""
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
