@@ -71,13 +71,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Works
       text: ""
-      count: 3
-      filters:
+      count: 5
+      filters: 
         folders:
           - publication
-        publication_type: 'article'
+        publication_type:
     design:
       view: citation
       columns: '2'
