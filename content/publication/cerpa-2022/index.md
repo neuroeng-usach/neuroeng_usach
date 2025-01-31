@@ -11,7 +11,7 @@ authors:
 - "Esteban Hernández"
 - leomedina
 - estebanpaduro
-tags: ["Transcutaneous Electrical Stimulation", "ACIP", "interferential Current Stimulation", "Kilohertz"]
+tags: ["Transcutaneous Electrical Stimulation", "ACIP", "interferential Current Stimulation", "Kilohertz", "FitzHugh-Nagumo"]
 categories: []
 date: '2023-01-01'
 lastmod: 2022-12-07T23:40:52-03:00
