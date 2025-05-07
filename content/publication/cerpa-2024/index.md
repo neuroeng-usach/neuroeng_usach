@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["nucleo2020"]
 publishDate: '2024-09-16T09:00:00.191932Z'
 publication_types: ["article-journal"]
 abstract: This paper studies the phenomenon of conduction block in model neurons using high-frequency biphasic stimulation (HFBS). The focus is investigating the triggering of undesired onset action potentials when the HFBS is turned on. The approach analyzes the transient behavior of an averaged system corresponding to the FitzHugh–Nagumo neuron model using Lyapunov and quasi-static methods. The first result provides a more comprehensive understanding of the onset activation through a mathematical proof of how to avoid it using a ramp in the amplitude of the oscillatory source. The second result tests the response of the blocked system to a piecewise linear stimulus, providing a quantitative description of how the HFBS strength translates into conduction block robustness. The results of this work can provide insights for the design of electrical neurostimulation therapies.
