@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations: 
 - name: Universidad Santo Tomás
-  url:
+  url: https://www.ust.cl/personas/curriculum/joaquin-alberto-araya-arriagada/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -30,9 +30,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: "mailto:joaco.araya@gmail.com"
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:jaraya25@santotomas.cl"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

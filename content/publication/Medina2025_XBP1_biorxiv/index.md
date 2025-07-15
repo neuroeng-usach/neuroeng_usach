@@ -24,10 +24,10 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-06-27'
+date: '2025-07-04'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-06-27T00:00:00.442130Z'
+publishDate: '2025-07-04T00:00:00.442130Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
