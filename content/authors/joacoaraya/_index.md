@@ -30,9 +30,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:jaraya25@santotomas.cl"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:jaraya25@santotomas.cl"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
