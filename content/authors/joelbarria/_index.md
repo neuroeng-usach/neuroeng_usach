@@ -21,7 +21,8 @@ organizations:
 bio: 
 
 interests:
-
+ - ERG - RETeval
+ - Wavelet analyses
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

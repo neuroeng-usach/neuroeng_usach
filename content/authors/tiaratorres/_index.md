@@ -47,7 +47,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Alumni
 ---
 
 Soy una estudiante de Ingeniería Civil Biomédica con una pasión por la aplicación de las neurociencias y la tecnología médica e informática, para desarrollar soluciones innovadoras en el ámbito de la salud. Mi objetivo es utilizar mis conocimientos y habilidades para abordar desafíos significativos en el campo de la salud, aprovechando la intersección entre la ingeniería y las ciencias médicas para crear un impacto positivo en la vida de las personas
