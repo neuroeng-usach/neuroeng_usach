@@ -3,7 +3,7 @@ title = "NeuroFest 2024"
 date = 2024-09-11T09:00:00-03:00
 date_end = 2024-09-28T18:00:00-03:00
 draft = false
-last_mod = 2024-09-28T18:00:00-03:00
+lastmod = 2024-09-28T18:00:00-03:00
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
