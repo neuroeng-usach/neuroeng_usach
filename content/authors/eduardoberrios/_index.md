@@ -21,7 +21,7 @@ organizations:
 bio: Estudiante de Ingeniería Civil Biomédica. Interesado en el uso de herramientas tecnológicas e informáticas para aplicaciones dentro del campo de la salud.
 
 interests:
-
+- ECG - HRV analysis in Parkinson Disease
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
