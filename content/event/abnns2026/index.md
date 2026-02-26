@@ -16,7 +16,7 @@ abstract: ""
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2026-02-16T12:00:00+11:00
 date_end: 2026-02-18T15:30:00+11:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2026-02-25T12:00:00-05:00
@@ -56,3 +56,5 @@ These findings establish the first direct evidence that sustained XBP1s expressi
 ![](image001.jpeg "")
 
 ![](image002.jpeg "")
+
+![](image003.jpeg "")
