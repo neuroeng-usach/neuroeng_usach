@@ -97,10 +97,10 @@ Of course, no trip to Victoria is complete without hitting the road. Journeying 
 
 I also had the chance to visit the beautiful Phillip Island and meet some of the local wildlife, including a friendly koala during a visit to Ballarat.
 
-![Phillip Island](BBCBD8C1-4938-4F49-980A-2905C8C102E4_1_102_o.jpeg)
+![Phillip Island](2E91397A-90AA-43DB-81A2-634C36A109E1_1_105_c.jpeg)
 *Taking in the serene coastal views at Phillip Island.*
 
-![Meeting a Koala](2E91397A-90AA-43DB-81A2-634C36A109E1_1_105_c.jpeg)
+![Meeting a Koala](BBCBD8C1-4938-4F49-980A-2905C8C102E4_1_102_o.jpeg)
 *Meeting a koala in Ballarat—a classic Australian experience!*
 
 ![Campus Life](6364469E-A8A3-477B-93C6-D9C96F4E1AA8_1_105_c.jpeg)
