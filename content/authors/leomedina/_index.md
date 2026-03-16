@@ -61,7 +61,9 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Leonel_Medina
 
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/leo-medina-d
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: leonelmd@gmail.com
 
