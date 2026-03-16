@@ -27,7 +27,7 @@ For a researcher, a sabbatical is a precious opportunity to step out of the dail
 
 ### Advancing Retinal Electrophysiology and the Exploracion2022 Project
 
-The driving force behind this sabbatical was our ongoing work on the [**Exploracion2022 project**](/project/exploracion-2022/). The project focuses on novel, complexity-based electroretinogram (ERG) analysis to identify biomarkers for neurodegenerative diseases. During my time at Unimelb, we focused heavily on extracting meaningful, entropy-based signals and complexity metrics from visual data, and implementing machine learning models to further understand the information content of these signals.
+The driving force behind this sabbatical was our ongoing work on the [**ANID Exploracion project**](/project/exploracion2022/). The project focuses on novel, complexity-based electroretinogram (ERG) analysis to identify biomarkers for neurodegenerative diseases. During my time at Unimelb, we focused heavily on extracting meaningful, entropy-based signals and complexity metrics from visual data, and implementing machine learning models to further understand the information content of these signals.
 
 ![Department of Biomedical Engineering](0C060E52-8097-4BFD-800D-ABC0CE138742_1_105_c.jpeg)
 *Outside the Department of Biomedical Engineering Building 261.*
