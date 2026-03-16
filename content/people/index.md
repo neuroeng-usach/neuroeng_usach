@@ -25,4 +25,12 @@ sections:
       show_role: true
       show_social: true
       show_organizations: true
+
+  - block: markdown
+    content:
+      title: Collaborators Across the Globe
+      text: |
+        {{< map_iframe src="/collaborators_map.html" >}}
+    design:
+      columns: '1'
 ---
