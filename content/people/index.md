@@ -30,7 +30,7 @@ sections:
     content:
       title: Collaborators Across the Globe
       text: |
-        {{< map_iframe src="/collaborators_map.html" >}}
+        {{< collaborators_map >}}
     design:
       columns: '1'
 ---
