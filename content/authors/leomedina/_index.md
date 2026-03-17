@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: leonel.medina@usach.cl
+    link: mailto:leonel.medina@usach.cl
 
   - icon: google-scholar
     icon_pack: ai
