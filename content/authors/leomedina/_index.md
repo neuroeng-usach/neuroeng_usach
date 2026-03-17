@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: leonel.medina@usach.cl
 
   - icon: google-scholar
     icon_pack: ai
@@ -65,7 +65,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/leo-medina-d
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: leonelmd@gmail.com
+# email: leonelmd@gmail.com
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
