@@ -18,10 +18,9 @@ organizations:
   url: https://www.diinf.usach.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
 
 interests:
-- 
+- ""
 
 
 # Social/Academic Networking
@@ -36,7 +35,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email:
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
