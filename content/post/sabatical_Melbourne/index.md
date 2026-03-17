@@ -22,9 +22,6 @@ image:
 
 For a researcher, a sabbatical is a precious opportunity to step out of the daily routine, dive headfirst into new challenges, and forge collaborations that can define the next phase of a scientific career. Moving from my home at **Universidad de Santiago de Chile (USACH)** to spend an incredible year as a visiting researcher at the **Department of Biomedical Engineering at the University of Melbourne** was exactly that kind of adventure.
 
-![Welcome to Unimelb](CA96F85A-A315-4065-A2D9-81755B9E5C9A_4_5005_c.jpeg)
-*The unmistakable "Wominjeka" welcome sign at the University of Melbourne—my academic home for the year.*
-
 ### Advancing Retinal Electrophysiology and the Exploracion2022 Project
 
 The driving force behind this sabbatical was our ongoing work on the [**ANID Exploracion project**](/project/exploracion2022/). The project focuses on novel, complexity-based electroretinogram (ERG) analysis to identify biomarkers for neurodegenerative diseases. During my time at Unimelb, we focused heavily on extracting meaningful, entropy-based signals and complexity metrics from visual data, and implementing machine learning models to further understand the information content of these signals.
