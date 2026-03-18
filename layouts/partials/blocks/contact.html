@@ -79,6 +79,7 @@
     <strong>PI to Contact:</strong>
     <select id="piContactSelect" class="form-select w-100" style="margin-top: 10px; margin-bottom: 20px; max-width: 400px; padding: 0.5rem;" onchange="updateContactInfo()">
       {{ $first_email := "" }}
+      {{ $default_email := "" }}
       {{ range where site.Pages "Section" "authors" }}
         {{ if and .Params.user_groups (in .Params.user_groups "Principal Investigators") }}
           {{ $email := "" }}
@@ -89,9 +90,11 @@
             {{ end }}
           {{ end }}
           {{ if not $first_email }}{{ $first_email = $email }}{{ end }}
-          <option value="{{ $email }}">{{ .Title }}</option>
+          {{ if eq .Title "Leo Medina" }}{{ $default_email = $email }}{{ end }}
+          <option value="{{ $email }}" {{ if eq .Title "Leo Medina" }}selected{{ end }}>{{ .Title }}</option>
         {{ end }}
       {{ end }}
+      {{ if not $default_email }}{{ $default_email = $first_email }}{{ end }}
     </select>
   </div>
 
@@ -100,7 +103,7 @@
     <li>
       <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
       <span id="person-email">
-      {{- if $autolink }}<a href="mailto:{{ $first_email }}">{{ $first_email }}</a>{{ else }}{{ $first_email }}{{ end -}}
+      {{- if $autolink }}<a href="mailto:{{ $default_email }}">{{ $default_email }}</a>{{ else }}{{ $default_email }}{{ end -}}
       </span>
     </li>
 
