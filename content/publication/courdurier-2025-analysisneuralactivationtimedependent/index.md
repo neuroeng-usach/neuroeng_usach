@@ -25,7 +25,7 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '*arXiv*'
 publication_short: ''
 
 doi: '10.48550/arXiv.2501.17803'

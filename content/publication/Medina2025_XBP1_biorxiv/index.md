@@ -35,7 +35,7 @@ publication_types:
 - article
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '*bioRxiv*'
 publication_short: ''
 
 doi: '10.1101/2025.07.03.662890'
