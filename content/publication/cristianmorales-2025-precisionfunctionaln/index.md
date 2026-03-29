@@ -20,8 +20,7 @@ authors:
 - "Chad M. Sylvester"
 date: '2025-01-01'
 publishDate: '2026-03-29T12:11:56Z'
-publication_types:
-- article
+publication_types: ["article"]
 publication: '*bioRxiv*'
 doi: '10.1101/2025.08.04.667740'
 publication_short: ''

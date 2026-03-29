@@ -30,8 +30,7 @@ authors:
 - "Damien A. Fair"
 date: '2023-01-01'
 publishDate: '2026-03-29T12:11:54Z'
-publication_types:
-- article
+publication_types: ["article"]
 publication: '*bioRxiv*'
 doi: '10.1101/2023.10.27.564416'
 publication_short: ''

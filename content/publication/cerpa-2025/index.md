@@ -24,8 +24,7 @@ publishDate: '2025-11-19T00:00:00.442130Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*Discrete and Continuous Dynamical Systems*'

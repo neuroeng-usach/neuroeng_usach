@@ -32,8 +32,7 @@ authors:
 - "Damien A. Fair"
 date: '2024-01-01'
 publishDate: '2026-03-29T12:11:58Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*Nature Neuroscience*'
 doi: '10.1038/s41593-024-01596-5'
 publication_short: ''

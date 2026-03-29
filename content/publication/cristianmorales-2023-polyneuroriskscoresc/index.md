@@ -25,8 +25,7 @@ authors:
 - "Oscar Miranda-Dominguez"
 date: '2023-01-01'
 publishDate: '2026-03-29T12:12:01Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*Developmental Cognitive Neuroscience*'
 doi: '10.1016/j.dcn.2023.101231'
 publication_short: ''

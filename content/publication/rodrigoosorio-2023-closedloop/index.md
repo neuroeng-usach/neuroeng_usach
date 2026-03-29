@@ -17,8 +17,7 @@ authors:
 - "James J. FitzGerald"
 date: '2023-01-01'
 publishDate: '2026-03-29T12:13:14Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*Artificial Organs*'
 doi: '10.1111/aor.14593'
 publication_short: ''

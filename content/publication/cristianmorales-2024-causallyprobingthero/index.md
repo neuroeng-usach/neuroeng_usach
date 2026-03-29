@@ -22,8 +22,7 @@ authors:
 - "Ziad Nahas"
 date: '2024-01-01'
 publishDate: '2026-03-29T12:11:59Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*Biological Psychiatry Global Open Science*'
 doi: '10.1016/j.bpsgos.2024.100309'
 publication_short: ''
