@@ -110,4 +110,15 @@
     </div>
 </div>
 
+<script>
+  // Default to peer-reviewed publications on page load
+  document.addEventListener('DOMContentLoaded', function () {
+    var pubtypeSelect = document.querySelector('.pubtype-select');
+    if (pubtypeSelect) {
+      pubtypeSelect.value = '.pubtype-article-journal';
+      pubtypeSelect.dispatchEvent(new Event('change'));
+    }
+  });
+</script>
+
 {{- end -}}
