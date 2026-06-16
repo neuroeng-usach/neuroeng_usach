@@ -9,7 +9,7 @@ address:
   region: 
   postcode:
   country: Chile
-summary:
+summary: "Presentación sobre el uso del análisis de entropía multiescala (MSE) en electrorretinogramas (ERG) para la detección temprana de la enfermedad de Alzheimer."
 abstract: "Evidencia reciente en diferentes sistemas fisiológicos respalda una teoría de pérdida de complejidad, que establece que la complejidad de la actividad fisiológica se rompe con el envejecimiento y la enfermedad. En esta charla, discutiremos brevemente las métricas de complejidad basadas en entropía, particularmente el método de entropía multiescala (MSE), e ilustraremos el análisis MSE aplicado a la detección de la enfermedad de Alzheimer (EA) a través del ojo. Realizamos mediciones de electrorretinograma (ERG) ex vivo en un modelo animal de EA, el 5xFAD transgénico, y descubrimos que la complejidad del ERG, estimada mediante la MSE, es menor que la de los animales sanos. Además, la diferencia depende tanto de la edad de los animales como del tipo de estímulo utilizado para evocar respuestas ERG. Estos resultados pueden tener grandes implicaciones para el diagnóstico de enfermedades neurodegenerativas a través del ojo."
 
 # Talk start and end times.

@@ -9,7 +9,7 @@ address:
   region: GA
   postcode:
   country: USA
-summary:
+summary: "Discussed using entropy-based complexity metrics like multiscale entropy (MSE) on electroretinogram (ERG) signals to detect Alzheimer's disease."
 abstract: "Recent evidence in different physiological systems supports a theory of complexity-loss, which states that the complexity carried out by physiological outputs breaks down with aging and disease. In this talk, we will briefly discuss entropy-based complexity metrics, particularly the multi-scale entropy (MSE) method, and we will illustrate the MSE analysis applied to the detection of Alzheimer’s disease (AD) through the eye. We performed ex vivo electroretinogram (ERG) measurements in an animal model of AD, the transgenic 5xFAD, and found that the complexity of the ERG, as estimated using the MSE, was smaller than that of wild-type animals. Further, the difference depended on both the age of the animals and the type of stimulus used to elicit ERG responses. These results can have great implications for the diagnosis of neurodegenerative diseases via the eye."
 
 # Talk start and end times.

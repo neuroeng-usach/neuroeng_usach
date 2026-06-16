@@ -9,7 +9,7 @@ address:
   region: VIC
   postcode:
   country: Australia
-summary:
+summary: "Presented recent work on using multiscale entropy (MSE) and complexity-loss theory to detect neurodegenerative conditions via retinal electrophysiology."
 abstract: ""
 
 # Talk start and end times.

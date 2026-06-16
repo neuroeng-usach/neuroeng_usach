@@ -9,7 +9,7 @@ address:
   region: IL
   postcode:
   country: USA
-summary:
+summary: "Presented a study exploring the protective role of transcription factor XBP1s overexpression in retinal aging and neurodegeneration using multiscale entropy."
 abstract: ""
 
 # Talk start and end times.

@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Chile
 
-summary:
+summary: "Webinar sobre la teoría de la complejidad en sistemas biológicos, presentando el trabajo y las líneas de investigación del laboratorio de Informática Biomédica."
 abstract: "El Departamento de Ingeniería informática de la Facultad de Ingeniería, invita a la comunidad al webinar “Teoría de la complejidad en sistemas biológicos”, a desarrollarse el miércoles 4 de agosto, vía Zoom, a las 11:30 hr. En la ocasión, expondrá el equipo del laboratorio de Informática Biomédica, haciendo la presentación de éste y el trabajo que allí se realiza. Dr. José Luis Jara, PhD. In Computer Science; el Dr. Leonel Medina, PhD Biomedical Engineering y el Dr. Max Chacón, D.Sc. en Ingeniería Biomédica. Todos son académicos del Departamento de Ingeniería Informática. Moderará el Dr. Manuel Villalobos, del Departamento de Informática. Si desea participar, favor inscribirse [AQUÍ](https://docs.google.com/forms/d/e/1FAIpQLSe7e-8VlACL0pVsjJ3vam8cSb-7JcNU_0bu29GiIM3GC9LQCw/viewform)"
 
 # Talk start and end times.

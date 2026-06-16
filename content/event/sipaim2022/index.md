@@ -9,7 +9,7 @@ address:
   region:
   postcode:
   country: Chile
-summary:
+summary: "Presented an automatic method for detecting evoked potentials in the brain during spinal cord stimulation for Parkinson's disease."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

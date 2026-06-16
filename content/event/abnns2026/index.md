@@ -9,7 +9,7 @@ address:
   region: 
   postcode:
   country: Australia
-summary:
+summary: "Discussed the therapeutic potential of XBP1s overexpression in preserving retinal function during aging and Alzheimer's disease pathology in mouse models."
 abstract: ""
 
 # Talk start and end times.

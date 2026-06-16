@@ -9,7 +9,7 @@ address:
   region: 
   postcode:
   country: New Zealand
-summary:
+summary: "A talk presenting complexity-based analysis of retinal electrophysiology (micro-ERG) to discover noninvasive ocular biomarkers for neurodegenerative diseases."
 abstract: ""
 
 # Talk start and end times.
