@@ -18,7 +18,7 @@ Desde marcapasos a implantes cocleares. De la estimulación eléctrica profunda 
 
 La **Ingeniería Biomédica (IB)** lleva varias décadas en el mundo desarrollado apuntalando el desarrollo tecnológico y las soluciones en el ámbito de la salud. En Chile, en los últimos años la disciplina ha tomado cada vez más impulso. Se lo debemos en gran parte a las iniciativas pioneras de la [Universidad de Valparaíso](https://ingenieriabiomedica.uv.cl/) y la [Universidad de Concepción](https://biomedica.udec.cl/) que se atrevieron a impartir la carrera de *Ingeniería Civil Biomédica* a inicios de los 2000. 
 
-Hoy en día, la oferta académica se ha expandido significativamente. Instituciones como la [Universidad de Santiago de Chile (Usach)](https://ingenieriabiomedica.usach.cl/), la [Universidad Tecnológica Metropolitana (UTEM)](https://biomedica.utem.cl/), la [Universidad del Desarrollo (UDD)](https://ingenieria.udd.cl/ingenieria-civil-biomedica/), la [Universidad Finis Terrae (UFT)](https://finisterrae.cl/carreras/ingenieria-civil-biomedica/) y la [Pontificia Universidad Católica de Chile (PUC)](https://ingenieriabiomedica.uc.cl/) también ofrecen programas de pregrado en esta disciplina. ¡En Usach ya tenemos a nuestros/as primeros/as titulados/as!
+Hoy en día, la oferta académica se ha expandido significativamente. Instituciones como la [Universidad de Santiago de Chile (Usach)](https://ingenieriabiomedica.usach.cl/), la [Universidad Tecnológica Metropolitana (UTEM)](https://conocetucarrera.utem.cl/ingenieria-civil-biomedica/), la [Universidad del Desarrollo (UDD)](https://ingenieria.udd.cl/carrera/ingenieria-civil-en-biomedicina/), la [Universidad Finis Terrae (UFT)](https://finisterrae.cl/carreras/ingenieria-civil-biomedica/) y la [Pontificia Universidad Católica de Chile (PUC)](https://iibm.uc.cl/) también ofrecen programas de pregrado en esta disciplina. ¡En Usach ya tenemos a nuestros/as primeros/as titulados/as!
 
 ---
 
@@ -36,9 +36,9 @@ La investigación en Ingeniería Biomédica en Chile es sumamente diversa y de f
 
 ---
 
-### Contribución desde NeuroEng@Usach
+### Contribución de la Ingeniería Biomédica en la Usach
 
-En la Universidad de Santiago de Chile, nuestro grupo [NeuroEng@Usach]({{< relref "/" >}}) también está contribuyendo activamente en diversas áreas clave de la Ingeniería Biomédica:
+En la Universidad de Santiago de Chile, el grupo de Ingeniería Biomédica (del cual forma parte nuestro grupo [NeuroEng@Usach]({{< relref "/" >}})) también está contribuyendo activamente en diversas áreas clave de la disciplina:
 
 1.  **[Búsqueda de biomarcadores fisiológicos y biomecánicos en envejecimiento cognitivo]({{< relref "/tour/biomarkers" >}}):** Analizando señales de electrofisiología de la retina (ERG) para la detección temprana de enfermedades neurodegenerativas como el Alzheimer.
 2.  **[Terapias de neuroestimulación mediante modelado computacional]({{< relref "/tour/neuromodulation" >}}):** Entendiendo la respuesta de las fibras nerviosas a la estimulación eléctrica en colaboración con profesores como [Rodrigo Osorio]({{< relref "/authors/rodrigoosorio" >}}) y [Leo Medina]({{< relref "/authors/leomedina" >}}).
