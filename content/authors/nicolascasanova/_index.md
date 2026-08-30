@@ -31,5 +31,5 @@ email:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-- Memoristas
+- Research Assistants
 ---
