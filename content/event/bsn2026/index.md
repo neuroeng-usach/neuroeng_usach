@@ -42,9 +42,9 @@ all_day: true
 publishDate: 2026-10-05T00:00:00Z
 
 authors:
-  - leomedina
   - eduardoberrios
   - pedrochana
+  - leomedina
   
 projects: []
 
