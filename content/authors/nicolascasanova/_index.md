@@ -18,16 +18,15 @@ organizations:
   url: https://www.ingenieriabiomedica.usach.cl
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ''
 
-interests:
-- 
+interests: []
 
 # Social/Academic Networking
-social:
+social: []
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
